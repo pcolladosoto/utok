@@ -1,0 +1,11 @@
+# Ignore hidden files except this .gitignore
+.*
+!.gitignore
+
+# Ignore built binaries
+utok
+bin/
+
+# Ignore Postman/Hoppscotch collections: they contain
+# sensitive data (i.e. tokens)!
+*.json
