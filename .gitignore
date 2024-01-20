@@ -3,7 +3,7 @@
 !.gitignore
 
 # Ignore built binaries
-utok
+utok*
 bin/
 
 # Ignore Postman/Hoppscotch collections: they contain
