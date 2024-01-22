@@ -6,6 +6,12 @@
 utok*
 bin/
 
+# Let the documentation through
+!utok.1.md
+
+# Let the SPEC file through
+!utok.spec
+
 # Ignore Postman/Hoppscotch collections: they contain
 # sensitive data (i.e. tokens)!
 *.json
